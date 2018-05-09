@@ -1,0 +1,18 @@
+{
+    "android": {
+      "debug": {
+       "keystore": "./midalmoney.keystore",
+        "storePassword": "nina2004",
+        "alias": "midalmoney",
+        "password" : "nina2004",
+        "keystoreType": "jks"
+    },
+     "release": {
+      "keystore": "./midalmoney.keystore",
+        "storePassword": "nina2004",
+        "alias": "midalmoney",
+        "password" : "nina2004",
+        "keystoreType": "jks"
+          }
+      }
+  }
